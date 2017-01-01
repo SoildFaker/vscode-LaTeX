@@ -9,7 +9,7 @@
 		"description": "usepackage",
 		"prefix": "up",
 		"body": "\\usepackage[${1:options}]{${2:package}} ${0}",
-		"scope": "text.tex.latex"j
+		"scope": "text.tex.latex"
 	},
 	"nuc": {
 		"description": "newunicodechar",
